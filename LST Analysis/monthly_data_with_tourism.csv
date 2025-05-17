@@ -1,4 +1,4 @@
-time,lat,lon,length_scale,dtime,satze,sataz,solze,solaz,lst,lst_uncertainty,n,qual_flag,lst_time_correction,lst_unc_time_correction,year,month,Total Tourists footfall
+time,lat,lon,length_scale,dtime,satze,sataz,solze,solaz,lst_value,lst_uncertainty,n,qual_flag,lst_time_correction,lst_unc_time_correction,year,month,Total Tourists footfall
 01-01-2004,31.125,77.125,0,46537.16797,52.87,25.13,95.79,99.829994,281.74,0.44400004,20,0,0.06,0.402,2004,1,12661.26728
 01-01-2004,31.125,77.375,0,46538.35156,52.86,27.01,95.579994,99.96,279.53,0.432,20,0,0.06,0.59000003,2004,1,12661.26728
 01-02-2004,31.125,77.125,0,46574.22266,52.809998,29.609999,88.439995,90.09,286.66,0.48400003,18,0,0.11,0.416,2004,2,10129.01383
